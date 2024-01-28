@@ -1,3 +1,4 @@
 # First_Repo
 This is my first Git Repository
-Auther -- Akash nema
+<br>
+Author -- Akash nema
